@@ -1,4 +1,4 @@
-ommands:
+commands:
 =========
 
 X specifies a number
